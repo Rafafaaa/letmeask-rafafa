@@ -1,3 +1,7 @@
-# letmeask-rafafa
+<h1 align="center">
+  Letmeask
+</h1>
 
-Esse é o meu segundo projeto em React.
+<div align="center">
+  <img src="https://github.com/Rafafaaa/letmeask-rafafa/blob/master/src/assets/images/logo.svg" alt="logo-letmeask" />
+</div>
