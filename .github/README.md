@@ -62,7 +62,7 @@ $ npm start
 * O acesso do app estará disponível no seu navegador em [http://localhost:3000](http://localhost:3000).
 
 ## :sparkles: Prévia
-Veja uma prévia clicando [aqui](https://rafafaaa-letmeask-nlw6.vercel.app).
+Veja uma prévia clicando [aqui](https://rafafaaa-nlw06-letmeask.vercel.app).
 
 ## :page_facing_up: Licença
 Este projeto está sob a [licença MIT](/.github/LICENSE.md).
@@ -123,7 +123,7 @@ $ npm start
 * The app access will be available in your browser in [http://localhost:3000](http://localhost:3000).
 
 ## :sparkles: Preview
-See a preview clicking [here](https://rafafaaa-letmeask-nlw6.vercel.app).
+See a preview clicking [here](https://rafafaaa-nlw06-letmeask.vercel.app).
 
 ## :page_facing_up: License
 This project is under the [MIT license](/.github/LICENSE.md).
